@@ -17,9 +17,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "art"
             ],
             "date_published": "2024-11-27T16:07:26+11:00",
-            "date_modified": "2024-11-27T16:07:26+11:00"
+            "date_modified": "2024-11-27T16:39:08+11:00"
         },
         {
             "id": "https://hsenot.github.io/website/art-1/index.html",
@@ -29,9 +30,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "art"
             ],
             "date_published": "2024-11-27T16:07:21+11:00",
-            "date_modified": "2024-11-27T16:07:21+11:00"
+            "date_modified": "2024-11-27T16:39:03+11:00"
         },
         {
             "id": "https://hsenot.github.io/website/map-2/index.html",
@@ -41,9 +43,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "map"
             ],
             "date_published": "2024-11-27T16:07:15+11:00",
-            "date_modified": "2024-11-27T16:07:15+11:00"
+            "date_modified": "2024-11-27T16:38:57+11:00"
         },
         {
             "id": "https://hsenot.github.io/website/map-1/index.html",
@@ -53,9 +56,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "map"
             ],
             "date_published": "2024-11-27T16:07:10+11:00",
-            "date_modified": "2024-11-27T16:07:10+11:00"
+            "date_modified": "2024-11-27T16:38:53+11:00"
         },
         {
             "id": "https://hsenot.github.io/website/energy-project-2/index.html",
@@ -65,9 +69,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "energy"
             ],
             "date_published": "2024-11-27T16:07:05+11:00",
-            "date_modified": "2024-11-27T16:07:05+11:00"
+            "date_modified": "2024-11-27T16:37:55+11:00"
         },
         {
             "id": "https://hsenot.github.io/website/energy-project-1/index.html",
@@ -77,9 +82,10 @@
                 "name": "Hervé Senot"
             },
             "tags": [
+                   "energy"
             ],
             "date_published": "2024-11-27T16:06:53+11:00",
-            "date_modified": "2024-11-27T16:06:53+11:00"
+            "date_modified": "2024-11-27T16:37:48+11:00"
         }
     ]
 }
