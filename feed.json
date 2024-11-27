@@ -1,0 +1,85 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Carbon GIS",
+    "description": "",
+    "home_page_url": "https://hsenot.github.io/website",
+    "feed_url": "https://hsenot.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hervé Senot"
+    },
+    "items": [
+        {
+            "id": "https://hsenot.github.io/website/art-2/index.html",
+            "url": "https://hsenot.github.io/website/art-2/index.html",
+            "title": "Art 2",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:07:26+11:00",
+            "date_modified": "2024-11-27T16:07:26+11:00"
+        },
+        {
+            "id": "https://hsenot.github.io/website/art-1/index.html",
+            "url": "https://hsenot.github.io/website/art-1/index.html",
+            "title": "Art 1",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:07:21+11:00",
+            "date_modified": "2024-11-27T16:07:21+11:00"
+        },
+        {
+            "id": "https://hsenot.github.io/website/map-2/index.html",
+            "url": "https://hsenot.github.io/website/map-2/index.html",
+            "title": "Map 2",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:07:15+11:00",
+            "date_modified": "2024-11-27T16:07:15+11:00"
+        },
+        {
+            "id": "https://hsenot.github.io/website/map-1/index.html",
+            "url": "https://hsenot.github.io/website/map-1/index.html",
+            "title": "Map 1",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:07:10+11:00",
+            "date_modified": "2024-11-27T16:07:10+11:00"
+        },
+        {
+            "id": "https://hsenot.github.io/website/energy-project-2/index.html",
+            "url": "https://hsenot.github.io/website/energy-project-2/index.html",
+            "title": "Energy project 2",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:07:05+11:00",
+            "date_modified": "2024-11-27T16:07:05+11:00"
+        },
+        {
+            "id": "https://hsenot.github.io/website/energy-project-1/index.html",
+            "url": "https://hsenot.github.io/website/energy-project-1/index.html",
+            "title": "Energy project 1",
+            "author": {
+                "name": "Hervé Senot"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-27T16:06:53+11:00",
+            "date_modified": "2024-11-27T16:06:53+11:00"
+        }
+    ]
+}

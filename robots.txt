@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hsenot.github.io/website/sitemap.xml

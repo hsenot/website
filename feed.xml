@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Carbon GIS</title>
+    <link href="https://hsenot.github.io/website/feed.xml" rel="self" />
+    <link href="https://hsenot.github.io/website" />
+    <updated>2024-11-27T16:07:26+11:00</updated>
+    <author>
+        <name>Hervé Senot</name>
+    </author>
+    <id>https://hsenot.github.io/website</id>
+
+    <entry>
+        <title>Art 2</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/art-2/index.html"/>
+        <id>https://hsenot.github.io/website/art-2/index.html</id>
+
+        <updated>2024-11-27T16:07:26+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Art 1</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/art-1/index.html"/>
+        <id>https://hsenot.github.io/website/art-1/index.html</id>
+
+        <updated>2024-11-27T16:07:21+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Map 2</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/map-2/index.html"/>
+        <id>https://hsenot.github.io/website/map-2/index.html</id>
+
+        <updated>2024-11-27T16:07:15+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Map 1</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/map-1/index.html"/>
+        <id>https://hsenot.github.io/website/map-1/index.html</id>
+
+        <updated>2024-11-27T16:07:10+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Energy project 2</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/energy-project-2/index.html"/>
+        <id>https://hsenot.github.io/website/energy-project-2/index.html</id>
+
+        <updated>2024-11-27T16:07:05+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Energy project 1</title>
+        <author>
+            <name>Hervé Senot</name>
+        </author>
+        <link href="https://hsenot.github.io/website/energy-project-1/index.html"/>
+        <id>https://hsenot.github.io/website/energy-project-1/index.html</id>
+
+        <updated>2024-11-27T16:06:53+11:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
